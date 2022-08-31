@@ -1,0 +1,1 @@
+ALTER TABLE products.laptops MODIFY COLUMN screen_size FLOAT NOT NULL;
